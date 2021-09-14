@@ -1,0 +1,11 @@
+Farinha_de_trigo 97 3
+Fermento 97 3
+Ovo 97 3
+Sal 97 3
+Tomate 99 2
+Queijo_Mussarela 98 1
+Oregano 97 3
+Linguica_calabreza_ 99 2
+Cebola 99 2
+Azeitona 99 2
+Azeite 99 2

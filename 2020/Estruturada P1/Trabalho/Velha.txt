@@ -1,0 +1,6 @@
+matriz[0][0] X
+matriz[1][0] X
+matriz[1][1] O
+matriz[2][0] X
+matriz[2][1] O
+Philippe Leal e o vencedor!
