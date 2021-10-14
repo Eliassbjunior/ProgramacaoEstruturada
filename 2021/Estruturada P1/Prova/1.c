@@ -1,3 +1,5 @@
+//1 - Gerar a matriz C que é a multiplicação da A pela transposta da B, e mostrar todos os numeros compostos presentes nela.
+
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>

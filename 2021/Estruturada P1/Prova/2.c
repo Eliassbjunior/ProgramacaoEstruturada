@@ -1,3 +1,5 @@
+// 2 - Existe dois arquivos com 10 numeros aleatórios, gerar terceiro arquivo com os números em ordem não crescente. (ordem crescente sem numeros repetidos)
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<limits.h>
